@@ -1,0 +1,1 @@
+id[i][j].colour = GREY
